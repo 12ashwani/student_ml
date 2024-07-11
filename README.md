@@ -1,6 +1,6 @@
 ## End to end ml project and deployment
 How to create ML model and deploy ML model
-1- Firstly create a folder then open the folder in Vs code or any other IDE
+* 1- Firstly create a folder then open the folder in Vs code or any other IDE *
 2- Create a new environment using conda command or other command
 A-First, check if the environment myenv exists by listing all available environments:
 
@@ -41,4 +41,4 @@ Inside this file you can define the project structure
 The key benefit of having the logging API provided by a standard library module is that all Python modules can participate in logging, so your application log can include your own messages integrated with messages from third-party modules
 13- Write code inside the exception.py and logger.py
 14- Create a file .env for facthing the all information regarding to data base
-15 - Write a code int the utils.py for connection
+15 - Write a code into the utils.py for connection
