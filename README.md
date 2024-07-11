@@ -48,3 +48,5 @@ Inside this file you can define the project structure
 
 # DVC COMANDS
 * 1-dvc init
+* 2- dvc add artifacts/raw.csv
+
