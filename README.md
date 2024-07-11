@@ -43,3 +43,8 @@ Inside this file you can define the project structure
 * 13- Write code inside the exception.py and logger.py
 * 14- Create a file .env for facthing the all information regarding to data base
 * 15 - Write a code int the utils.py for connection
+
+
+
+# DVC COMANDS
+* 1-dvc init
