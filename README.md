@@ -24,7 +24,8 @@ echo "# my_new_project" >> README.md
 * git commit -m "first commit"
 * git branch -M main
 * git remote add origin https://github.com/12ashwani/student_ml.git
-* git push -u origin main
+* 
+
 * 6- Create file in github repository to skip unnecessary data or file ".gitignore" file extension "python" and commit
 Put environment file neme inside gitignore file to keep environment file safe
 * 7- Run "git pull origin main" command to import the file from repository to project
