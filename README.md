@@ -19,7 +19,8 @@ Then push this file to github repository using the below command
 *Create a new repository on command line*
 echo "# my_new_project" >> README.md
 git init
-git add README.md
+git add README.md 
+i
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/12ashwani/my_new_project.git
