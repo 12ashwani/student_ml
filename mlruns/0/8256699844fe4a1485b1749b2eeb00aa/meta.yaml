@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/models/mlruns/0/8256699844fe4a1485b1749b2eeb00aa/artifacts
+end_time: 1720755261388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8256699844fe4a1485b1749b2eeb00aa
+run_name: industrious-tern-873
+run_uuid: 8256699844fe4a1485b1749b2eeb00aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720755233135
+status: 3
+tags: []
+user_id: root

@@ -49,4 +49,5 @@ Inside this file you can define the project structure
 # DVC COMANDS
 * 1-dvc init
 * 2- dvc add artifacts/raw.csv
-
+* 3- git add artifacts\raw.csv.dvc
+* 3- git add artifacts\.gitignore
