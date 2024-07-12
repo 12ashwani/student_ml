@@ -16,7 +16,7 @@ How to create ML model and deploy ML model
 in git hub repository
 * 5- Creating README.md file inside your project folder
 Then push this file to github repository using the below command
-*Create a new repository on command line*
+# * Create a new repository on command line*
 echo "# my_new_project" >> README.md
 * git init
 * git add README.md 
@@ -24,7 +24,7 @@ echo "# my_new_project" >> README.md
 * git commit -m "first commit"
 * git branch -M main
 * git remote add origin https://github.com/12ashwani/student_ml.git
-*  
+*  git push -u origin main
 
 * 6- Create file in github repository to skip unnecessary data or file ".gitignore" file extension "python" and commit
 Put environment file neme inside gitignore file to keep environment file safe
